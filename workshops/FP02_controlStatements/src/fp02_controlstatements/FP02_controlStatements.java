@@ -7,14 +7,14 @@ package fp02_controlstatements;
 
 /**
  *
- * @author nuevo
+ * @author RodriguezVlady
  */
 public class FP02_controlStatements {
 
     /**
      * @param args the command line arguments
      */
-public static void main(String[] args) {
+    public static void main(String[] args) {
         int number; // numero de entrada
         int remainder; // residuo
         
