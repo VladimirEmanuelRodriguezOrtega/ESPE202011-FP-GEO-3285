@@ -7,7 +7,7 @@ thanks
 */
 class ByeWorld{
 	public static void main(String[] args){
-		System.out.println("Hello World from  Vladimir Rodriguez");
+		System.out.println("bye World from  Vladimir Rodriguez");
 		}
 }
 
