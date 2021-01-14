@@ -19,7 +19,7 @@ public class WS05Iterations {
     int i;
         i = 1;
         
-        System.out.println("==== This is a while loo from 1 to 10 ====");
+        System.out.println("==== This is a while loo from 1 to 25 ====");
         
         while( i < 25) {
             System.out.println("i ->" + i);
