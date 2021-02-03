@@ -25,15 +25,15 @@ public class WS10Functions {
         //call to divideTwoNumbers() function
         quotient = divideTwoNumbers(divd, divr);
 
-        System.out.println("Quotient of 5 and 10 is -> " + quotient); //0.5 or ?
+        System.out.println("Quotient of 8 and 24 is -> " + quotient); //0.5 or ?
 
-        y = f(3);
-        System.out.println("3^2 -> " + y);
+        y = f(4);
+        System.out.println("4^4 -> " + y);
 
-        y = f(-3);
-        System.out.println("-3^2 -> " + y); //9
+        y = f(-4);
+        System.out.println("-4^-4 -> " + y); //9
         
-        x = -1;
+        x = 16;
         y = f(x);
         System.out.println("the square of -> " + x + " <- is equal to -> " + y);
 
