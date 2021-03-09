@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author nuevo
+ * @author Vladimir Rodriguez
  */
 public class WS14Arrays {
 
@@ -17,6 +17,7 @@ public class WS14Arrays {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("@author: Vladimir Rodriguez");
         int[] eggsByCoop;
         String[] chickens = {"Lucy", "Maruja", "Pepita"};
         float[] weightsByCoop = { 1.2F, 2.4F, 45.2F, 80.1F, 4.3F, 4.5F};

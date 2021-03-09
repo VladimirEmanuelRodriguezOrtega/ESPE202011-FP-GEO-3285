@@ -15,6 +15,7 @@ public class FP02_controlStatements {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Vladimir Rodriguez autor");
         int number; // numero de entrada
         int remainder; // residuo
         

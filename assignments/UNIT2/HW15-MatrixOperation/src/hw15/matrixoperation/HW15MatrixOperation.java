@@ -16,6 +16,7 @@ public class HW15MatrixOperation {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println(" Autor: Vlady Rodriguez ");
         int rows;
         int cols;
         
