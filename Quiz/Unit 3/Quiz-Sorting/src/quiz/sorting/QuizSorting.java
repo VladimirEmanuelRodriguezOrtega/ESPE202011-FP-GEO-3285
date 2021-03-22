@@ -18,7 +18,7 @@ public class QuizSorting {
      */
     public static void main(String[] args) {
                 
-        int[] integersToSort = {5, -5, -6, 4, 1, 7};
+        int[] integersToSort = {42, 30, -5, 7, 1, 50};
         System.out.println("Unsorted integers");
         printArray(integersToSort);
         sortByBubbleSort(integersToSort);
